@@ -1,4 +1,4 @@
-This repository is for the anonymous reviewing process of the CVPR 2020 conference, and it should NOT be used for other purposes. The code is not functional since we removed identifiable information.
+This repository is for the anonymous reviewing process, and it should NOT be used for other purposes. The code is not functional since we removed identifiable information.
 
 # deep-smoke-machine
 Deep learning for smoke detection.
