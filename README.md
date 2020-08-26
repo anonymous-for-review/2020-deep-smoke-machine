@@ -1,6 +1,6 @@
 **This repository is for the anonymous reviewing process, and it should NOT be used for other purposes. The code is not functional and out-of-date since we removed identifiable information. We also removed a lof of information and links in this README file to remain anonymous. The main dataset is also removed since the data download links contain our organization's information. You can find a subset of our dataset in [another repository](https://github.com/anonymous-for-review/2020-smoke-recognition-dataset).**
 
-# deep-smoke-machine
+# deep-smoke-machine (for anonymous review)
 Deep learning models and dataset for recognizing industrial smoke emissions. The videos are from the smoke labeling tool. The code in this repository assumes that Ubuntu 18.04 server is installed.
 
 ![This figure shows different types of videos (high-opacity smoke, low-opacity smoke, steam, and steam with smoke).](back-end/data/dataset/2020-02-24/smoke-type.gif)
